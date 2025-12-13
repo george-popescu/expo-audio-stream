@@ -1,5 +1,7 @@
 **/dist
 **/build
+# Exception: include expo-audio-studio build for GitHub installs
+!packages/expo-audio-studio/build/
 
 # OSX
 #
